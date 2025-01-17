@@ -242,7 +242,9 @@ _[Dockerfile.build](https://github.com/nikgladkov/myCypresFramework/blob/main/Do
 CMD ["bash", "-c", "npm run testTest; bash upload_to_blob.sh"]
 ```
 
-# Future
+# Future addings
+
+To be described
 
 ## Test Environment
 ## Run Docker on git
