@@ -242,14 +242,11 @@ _[Dockerfile.build](https://github.com/nikgladkov/myCypresFramework/blob/main/Do
 CMD ["bash", "-c", "npm run testTest; bash upload_to_blob.sh"]
 ```
 
-# Future addings
+## To be described
 
-To be described
-
-## Test Environment
-## Run Docker on git
-## Additional report plugins
-
+### Test Environment
+### Run Docker on git
+### Additional report plugins
 - cypress-mochawesome-reporter plugin 
 https://www.npmjs.com/package/cypress-mochawesome-reporter
 file:///Users/nik/MyCypressFramework/myCypresFramework/cypress/reports/index.html
